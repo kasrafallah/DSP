@@ -1,0 +1,1 @@
+Taken from "Angrew Ng" course on deep learning on Coursera.
