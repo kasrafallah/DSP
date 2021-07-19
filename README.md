@@ -1,22 +1,22 @@
 # DSP
 digital signal processing course home works and projects 
 
-## homwork titles
+## assignment titles
 
 
-### homework 1
+### assignment 1
 #### introduction to python programing
 <p align="center">
 <image align="center" src = "images/pythonlogo.jpg" width="300">
 </p>
  
 
-### homework 2
+### assignment 2
 #### Karplus-strong algorithem
    
 <p align="center">
 <image align="center" src = "images/Karplus-strong algorithem.png" width="300">
 </p>
  
-### homework 3
+### assignment 3
 #### intriduction to scipy and matplotlib libraries in python
