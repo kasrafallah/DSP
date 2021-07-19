@@ -7,7 +7,7 @@ digital signal processing course home works and projects
 ### homework 1
 #### introduction to python programing
 <p align="center">
-<image align="center" src = "images/pythonlogo.jpg" width="1000">
+<image align="center" src = "images/pythonlogo.jpg" width="300">
 </p>
  
 
@@ -15,7 +15,7 @@ digital signal processing course home works and projects
 #### Karplus-strong algorithem
    
 <p align="center">
-<image align="center" src = "images/Karplus-strong algorithem.png" width="1000">
+<image align="center" src = "images/Karplus-strong algorithem.png" width="300">
 </p>
  
 ### homework 3
