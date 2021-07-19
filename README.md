@@ -19,4 +19,11 @@ digital signal processing course home works and projects
 </p>
  
 ### assignment 3
-#### intriduction to scipy and matplotlib libraries in python
+#### introduction to scipy and matplotlib libraries in python
+
+ <p align="center">
+<image align="center" src = "images/logo.jpg" width="300">
+</p>
+  
+### assignment 4
+ 
