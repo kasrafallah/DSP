@@ -27,3 +27,7 @@ digital signal processing course home works and projects
   
 ### assignment 4
  
+#### introduction to py adiuo library (replay microphone voice/plot output of microphone)
+ <p align="center">
+<image align="center" src = "images/pyadiuo.png" width="300">
+</p>  
